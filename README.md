@@ -1,4 +1,3 @@
-# A Minimal Fortnite Launcher Emulator ElixirMP 
 
 ### Elixir Launcher Setup 🛠️
 ---
